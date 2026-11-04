@@ -83,4 +83,4 @@ Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM**, garantindo um
 
 ## 👥 Autores e Contato
 
-* **[Seu Nome]** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
+* **Nicolas Balzon, Pedro Nobre, Pedro Lucas, Mel, Rodrigo Avelar, Daniel Câmara** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
